@@ -1,1 +1,6 @@
-Http Request
+Http Request ( GET/ POST )
+NodeJs to Mysql connection and executing query
+
+TODO :
+create server using nodejs and server get and post requests
+server static resources using nodejs
